@@ -1,0 +1,5 @@
+data/
+*.jsonl
+.shi.lock
+.env
+__pycache__/
